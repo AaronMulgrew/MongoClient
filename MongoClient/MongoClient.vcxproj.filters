@@ -21,8 +21,8 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="findfile.c">
-      <Filter>Source Files</Filter>
+    <ClInclude Include="data_variables.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -30,6 +30,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="stdafx.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="data_variables.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

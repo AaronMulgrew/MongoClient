@@ -1,0 +1,6 @@
+
+*.psess
+*.ipch
+.vs/MongoClient/v15/.suo
+.vs/MongoClient/v15/Browse.VC.db
+.vs/MongoClient/v15/Browse.VC.opendb
